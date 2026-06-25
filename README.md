@@ -1,61 +1,62 @@
 <div align="center">
 
-Hi there, I'm Ayoub Bentahir 👋
+# Hi there, I'm Ayoub Bentahir 👋
 
-Aspiring Data Scientist | CS Engineering Student | Software Developer
+**Data Science & AI Intern @ PEAQOCK | CS Engineering Student**
 
 </div>
 
-I'm a 3rd-year Computer Science Engineering student based in Casablanca. I am leveraging my strong foundation in software engineering, system architecture, and algorithmic design to build a career in Data Science, Artificial Intelligence, and Machine Learning.
+> Rooted in pure mathematics, I spent my early computer science journey mastering software architecture—building applications, designing databases, and constructing resilient systems. I knew how to build the "engine," but my perspective shifted when I began extracting actionable insights from complex data. I realized that while code builds the infrastructure, data is the fuel that actually solves human problems.
 
-I believe the best data solutions are built on solid engineering principles, and I am currently focused on bridging the gap between robust application development and data-driven insights.
+I approach the Data Science and AI landscape with the strict mindset of an engineer. I believe what differentiates an outstanding data professional is the ability to go beyond isolated, theoretical models. My edge lies in building end-to-end system solutions: bridging the gap between theoretical math and seamlessly integrating AI and NLP models into robust, production-ready environments.
 
-🚀 What I'm Up To
+---
 
-🌱 Current Focus: Deep-diving into the Data Science roadmap. I am currently mastering Python for Data Science and preparing to tackle core Machine Learning and NLP concepts.
+## 🚀 Current Status
 
-🔭 Currently Building: Integrating AI into full-stack architecture. I'm developing an AI-powered session transcript analysis tool within my latest platform, Bright Path Counseling.
+*   **💼 Currently Working:** Putting my dual expertise to work as a Data Science & AI Intern at PEAQOCK in Casablanca, tackling complex software engineering challenges and building scalable, intelligent systems.
+*   **🌱 Continuous Learning:** Solidifying my core foundation in Data Science, Artificial Intelligence, and Machine Learning, while leveraging NLP and rigorous execution to turn raw data into tangible business value.
+*   **🔭 Always Building:** Focused on the intersection of Software Engineering, Artificial Intelligence, and Data Science.
 
-🏗️ My Foundation: Strong background in system design (UML, MERISE), relational databases (SQL, PL/SQL), and object-oriented programming (C++, Python).
+---
 
-💼 Open for Opportunities: Actively seeking a Summer Data Science or Data Engineering Internship in Casablanca to apply my analytical thinking and software engineering skills to real-world data problems.
+## 🛠️ Technical Arsenal
 
-🛠️ Technical Arsenal
+I've categorized my skills to reflect my full-stack and data-driven capabilities:
 
-📊 Data Science & Core Engineering Focus
+### 🧠 Data Science, AI & Python Ecosystem
+*   Python, Natural Language Processing (NLP), Web Scraping
+*   FastAPI, Django
+*   Algorithms, Data Structures
 
-Languages: Python, SQL, PL/SQL, C, C++
+### ⚙️ Backend, APIs & Architecture
+*   REST APIs, Microservices, System Architecture, Software Design
+*   NestJS, Node.js
+*   Java, PHP
+*   Systems Design (MERISE, MERISE 2, UML), SDLC, Software Quality Assurance
 
-Concepts: Data Structures & Algorithms, Object-Oriented Programming
+### 🗄️ Databases & Data Modeling
+*   PostgreSQL, MySQL, SQL Server Management Studio (SSMS)
+*   PL/SQL, Transact-SQL (T-SQL)
 
-Architecture & Data Modeling: MERISE, MERISE 2, UML, Relational Database Design
+### 💻 Frontend & User Interface
+*   Next.js, React, TypeScript, JavaScript, jQuery, JSON
+*   Tailwind CSS, HTML5, CSS3
 
-Environment: Unix/Linux, Git
+### 🔧 DevOps, OS & Core Engineering
+*   Docker, Git, GitHub, Git BASH
+*   Unix/Linux Environment
+*   C, C++, Compilation
 
-💻 Software & Full-Stack (The Foundation)
+### 🎯 Professional & Soft Skills
+*   Agile Project Management, Project Planning
+*   End-to-End Solutions, Academic Research, Public Speaking
 
-Frontend/Frameworks: Next.js 16, React, TypeScript, JavaScript
+---
 
-Styling & UI: Tailwind CSS, shadcn/ui, HTML5, CSS
+## 📫 Let's Connect!
 
-State Management & Backend: Zustand, PHP
+I am a firm believer in letting the work speak for itself. If you are passionate about rigorous execution, continuous learning, and the intersection of code and data, let's connect!
 
-🧠 Featured Project
-
-While I am actively building my portfolio of dedicated Data Science projects, my current engineering work reflects my transition toward AI integration and robust data modeling:
-
-Bright Path Counseling (BPC V2) A comprehensive, role-based mental health platform connecting clients with licensed psychologists.
-
-🤖 AI Integration: Engineered an AI-powered session transcript analysis endpoint to provide actionable insights for psychologists.
-
-📐 Data Architecture: Designed a complex relational system supporting 4 distinct user roles (Client, Psychologist, Admin, Super Admin) with dedicated dashboards and secure data flow.
-
-🛠️ Tech Stack: Next.js 16, TypeScript, Zustand, Tailwind CSS. Built as a prototype ready to scale with PostgreSQL and Prisma.
-
-📫 Let's Connect!
-
-I'm always open to discussing data science, software architecture, or tech opportunities.
-
-💼 LinkedIn: Ayoub Bentahir
-
-📧 Email: aybex.31@gmail.com
+*   **💼 LinkedIn:** [Ayoub Bentahir](https://www.linkedin.com/in/ayoubbentahir31)
+*   **📧 Email:** [aybex.31@gmail.com](mailto:aybex.31@gmail.com)
